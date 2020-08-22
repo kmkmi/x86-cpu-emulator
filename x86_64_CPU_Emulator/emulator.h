@@ -14,4 +14,5 @@ public:
 	void init(size_t memsize, FILE* inp);
 	uint64_t getRIP();
 	uint8_t nextInst();
+	void printRegs();
 };

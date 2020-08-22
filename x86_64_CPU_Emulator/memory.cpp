@@ -18,3 +18,22 @@ void Memory::loadBinToMem(FILE* inp) {
 uint8_t Memory::read1byte(uint64_t offset) {
 	return (uint8_t)this->memld[offset];
 }
+
+
+int8_t Memory::readChar(uint64_t offset) {
+	return (int8_t)this->memld[offset];
+}
+
+
+uint32_t Memory::read4bytes(uint64_t offset) {
+
+	return (uint32_t)this->memld[offset];
+}
+
+void Memory::write8bytes(uint64_t offset, uint64_t buf) {
+	this->memld[offset] = buf;
+}
+
+void Memory::freeMem() {
+	free(this->memld);
+}

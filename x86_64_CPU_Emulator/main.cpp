@@ -17,19 +17,22 @@ int main(int argc, char* argv[]) {
 	emul.init(MEMSIZE, inp);
 
 
+	fclose(inp);
 
 
+	emul.inst.rip += 0x3c;
 	while (emul.inst.rip < MEMSIZE) {
 		uint8_t opcode = emul.nextInst();
-		printf("0x%02X\n", opcode);
-		//emul.exec(opcode);
-
+		printf("x%02X\n", opcode);
+		emul.inst.ex_op(opcode);
+		emul.printRegs();
 		if (emul.inst.rip == 0x00) break;
 	}
 	
 
+	emul.mem.freeMem();
 
-	fclose(inp);
+
 
 
 }

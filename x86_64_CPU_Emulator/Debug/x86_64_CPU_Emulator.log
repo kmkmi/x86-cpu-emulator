@@ -1,6 +1,63 @@
 ﻿  emulator.cpp
 C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(1,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
-  instruction.cpp
-  main.cpp
-  코드를 생성하고 있습니다...
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(19,9): warning C4477: 'printf' : 서식 문자열 '%016x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'uint64_t'입니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(19,9): message : 서식 문자열에서 '%llx'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(19,9): message : 서식 문자열에서 '%I64x'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(19,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'uint64_t'입니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(19,9): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(19,9): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(20,9): warning C4477: 'printf' : 서식 문자열 '%016x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'uint64_t'입니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(20,9): message : 서식 문자열에서 '%llx'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(20,9): message : 서식 문자열에서 '%I64x'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(20,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'uint64_t'입니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(20,9): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(20,9): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(21,9): warning C4477: 'printf' : 서식 문자열 '%016x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'uint64_t'입니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(21,9): message : 서식 문자열에서 '%llx'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(21,9): message : 서식 문자열에서 '%I64x'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(21,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'uint64_t'입니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(21,9): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(21,9): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(22,9): warning C4477: 'printf' : 서식 문자열 '%016x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'uint64_t'입니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(22,9): message : 서식 문자열에서 '%llx'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(22,9): message : 서식 문자열에서 '%I64x'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(22,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'uint64_t'입니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(22,9): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(22,9): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(23,9): warning C4477: 'printf' : 서식 문자열 '%016x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'uint64_t'입니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(23,9): message : 서식 문자열에서 '%llx'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(23,9): message : 서식 문자열에서 '%I64x'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(23,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'uint64_t'입니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(23,9): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(23,9): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(24,9): warning C4477: 'printf' : 서식 문자열 '%016x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'uint64_t'입니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(24,9): message : 서식 문자열에서 '%llx'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(24,9): message : 서식 문자열에서 '%I64x'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(24,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'uint64_t'입니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(24,9): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(24,9): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(25,9): warning C4477: 'printf' : 서식 문자열 '%016x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'uint64_t'입니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(25,9): message : 서식 문자열에서 '%llx'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(25,9): message : 서식 문자열에서 '%I64x'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(25,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'uint64_t'입니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(25,9): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(25,9): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(26,9): warning C4477: 'printf' : 서식 문자열 '%016x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'uint64_t'입니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(26,9): message : 서식 문자열에서 '%llx'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(26,9): message : 서식 문자열에서 '%I64x'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(26,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'uint64_t'입니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(26,9): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(26,9): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(28,10): warning C4477: 'printf' : 서식 문자열 '%016x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'uint64_t'입니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(28,10): message : 서식 문자열에서 '%llx'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(28,10): message : 서식 문자열에서 '%I64x'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(28,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'uint64_t'입니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(28,10): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(28,10): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(30,9): warning C4477: 'printf' : 서식 문자열 '%016x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'uint64_t'입니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(30,9): message : 서식 문자열에서 '%llx'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(30,9): message : 서식 문자열에서 '%I64x'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(30,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'uint64_t'입니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(30,9): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\x86_64_CPU_Emulator\emulator.cpp(30,9): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
   x86_64_CPU_Emulator.vcxproj -> C:\Users\fhdj4\source\repos\x86_64_CPU_Emulator\Debug\x86_64_CPU_Emulator.exe
