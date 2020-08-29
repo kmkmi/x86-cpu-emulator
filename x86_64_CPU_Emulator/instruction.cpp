@@ -164,7 +164,6 @@ void Instruction::chkMod(int op) {
     case 2:
         imm32 = mem.read4bytes(this->rip);
         this->rip += 4;
-        //imm32 = swap_endian32(imm32);
         addr = this->regs[this->rm];
         dst = mem.read4bytes(addr + imm32);
         op_mod0to2(addr + imm32, dst, op);
