@@ -189,8 +189,8 @@ void Instruction::add_rm32_r32() { this->chkMod(ADD); }
 void Instruction::xor_rm32_r32() { this->chkMod(XOR); }
 
 
-void Instruction::op_mod3(uint64_t* dst, uint64_t* src, int calc_type) {
-    switch (calc_type) {
+void Instruction::op_mod3(uint64_t* dst, uint64_t* src, int op) {
+    switch (op) {
     case ADD: *dst += *src; break;
 
     case XOR: *dst ^= *src; break;
